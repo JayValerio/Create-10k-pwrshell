@@ -1,6 +1,6 @@
 # Create-10k-pwrshell
 This script can be run in Powershell ISE(admin) to create 10k users.
-
+----------------------------------------------------------------------------------------------------------
 
 # ----- Edit these Variables for your own Use Case ----- #
 $PASSWORD_FOR_USERS   = "Password1"
